@@ -1,7 +1,7 @@
 # Portfolio
-•Mn : 임지훈
-•E-mail :     
-•Phone number : 
+   •Mn : 임지훈
+   •E-mail :
+   •Phone number : 
 # 소개/About Ne
 마라톤처럼 지속적앞으로 계속 나아가며 끊임없는 도전하며 성실하고 열정적으로 목표를 향해 나아가고싶은 백앤드개발자입니다.
 
