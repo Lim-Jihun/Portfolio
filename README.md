@@ -23,7 +23,7 @@ SQL :  60%
  > * 기술 스택: Java 8 / Oracle SQL
 
 ## 3. 헥사코어     
-   ()
+   (MOT(Multi Object Detection & Tracking)를 활용한 시설 관리용 모니터링 서비스 )
   > * 팀 프로젝트 개발 기간: 2024.05.22 ~ 2024.06.20
   > * 기술 스택: 
 
