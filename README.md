@@ -21,7 +21,7 @@ SQL :  60%
    (중고등학생을 위한 중고거래 플랫폼 웹사이트)     
   > * 팀 프로젝트 개발 기간: 2024.03.22 ~ 2024.04.05    
   > * 기술 스택: Java 8 / Spring / html / css/ javascript / MySQL
-  > * 핵심 역할:
+  > * 핵심 역할: 관리자페이지 화원정보 수정 기능 , 회원상태 병경 기능, 사용자 상품 게시글 관리 기능 구현
   > * [second-hand-school](https://github.com/Lim-Jihun/second-hand-school.git)
 
     
