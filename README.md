@@ -29,7 +29,7 @@ SQL :  60%
    (MOT(Multi Object Detection & Tracking)를 활용한 시설 관리용 모니터링 서비스 )
   > * 팀 프로젝트 개발 기간: 2024.05.22 ~ 2024.06.20
   > * 기술 스택:
-  > * 핵심 역할:
+  > * 핵심 역할: 구역별 체류 인원/ 평균 체류 시간 목록 구현, DB 더미 데이터 추가, 멘토링 일지 관리
   > * [Hexacore](https://github.com/Lim-Jihun/Hexacore.git)  
 
 
@@ -37,7 +37,7 @@ SQL :  60%
    (KoBERT 자연어 처리를 활용한 재료 기반 레시피 추천 서비스)      
    > * 팀 프로젝트 개발 기간: 2024.7.19 ~ 2024.08.02      
    > * 기술 스택: HTML/ CSS/ JavaScript (JS)/ jQuery (JQ)/ MySQL/ Python
-   > * 핵심 역할:
+   > * 핵심 역할: 검색 기능구현, 즐겨찾기 기능구현, 추천 기능구현
    > * [yorijori](https://github.com/Lim-Jihun/yorijori.git)
 
 
